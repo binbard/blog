@@ -22,7 +22,8 @@ title: Binblog # the main title
 
 tagline: welcome back fellow utilman # it will display as the sub-title
 
-description: >- Here you will find all the things I have been working on, and all the things I have been thinking about
+description: >- # used by seo meta and the atom feed
+  Here you will find all the things I have been working on, and all the things I have been thinking about.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
